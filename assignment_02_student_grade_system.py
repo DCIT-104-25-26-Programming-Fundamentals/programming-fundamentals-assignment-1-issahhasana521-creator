@@ -45,11 +45,6 @@
 # YOUR CODE BELOW — remove the # symbols from the scaffold and fill it in
 # =============================================================================
 
-# =============================================================================
-# PROGRAMMING FUNDAMENTALS — Assignment 2
-# Topic: Conditional Logic (if / elif / else) and Functions
-# =============================================================================
-
 # Function to determine the student's grade
 def get_grade(score):
     # Validate score
