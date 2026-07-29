@@ -35,9 +35,6 @@
 # YOUR CODE BELOW — remove the # symbols from the scaffold and fill it in
 # =============================================================================
 # =============================================================================
-# PROGRAMMING FUNDAMENTALS — Assignment 1
-# Topic: Conditional Logic, Loops, and Functions
-# =============================================================================
 
 # Function to check if a number is prime
 def is_prime(number):
